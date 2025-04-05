@@ -26,10 +26,10 @@ void mergeSort(vector<int>& arr, int left, int right) {
     merge(arr, left, mid, right);
 }
 
-int main() {
-    vector<int> data = { 8,4,2,5,7 };
-    mergeSort(data, 0, data.size() - 1);
-
-    for (int num : data)
-        cout << num << " ";
-}
+//int main() {
+//    vector<int> data = { 8,4,2,5,7 };
+//    mergeSort(data, 0, data.size() - 1);
+//
+//    for (int num : data)
+//        cout << num << " ";
+//}

@@ -182,6 +182,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="s4_quick.cpp" />
     <ClCompile Include="s1_bubble.cpp" />
     <ClCompile Include="s1_merge.cpp" />
     <ClCompile Include="s2_selection.cpp" />
