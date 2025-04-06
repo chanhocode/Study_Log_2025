@@ -188,6 +188,7 @@
     <ClCompile Include="s2_selection.cpp" />
     <ClCompile Include="s3_insertion.cpp" />
     <ClCompile Include="s5_heap.cpp" />
+    <ClCompile Include="s6_count.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
