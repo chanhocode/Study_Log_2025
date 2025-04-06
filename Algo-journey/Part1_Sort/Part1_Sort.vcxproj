@@ -187,6 +187,7 @@
     <ClCompile Include="s1_merge.cpp" />
     <ClCompile Include="s2_selection.cpp" />
     <ClCompile Include="s3_insertion.cpp" />
+    <ClCompile Include="s5_heap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
