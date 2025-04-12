@@ -18,7 +18,7 @@ int binarySearch(vector<int>& arr, int target) {
     return -1;
 }
 
-int main() {
-    vector<int> data = { 1, 3, 5, 7, 9, 11 };
-    cout << binarySearch(data, 7);
-}
+//int main() {
+//    vector<int> data = { 1, 3, 5, 7, 9, 11 };
+//    cout << binarySearch(data, 7);
+//}

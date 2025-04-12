@@ -18,5 +18,8 @@
     <ClCompile Include="s1_binary.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="s2_dfs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
