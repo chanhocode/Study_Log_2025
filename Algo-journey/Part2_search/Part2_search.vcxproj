@@ -184,6 +184,7 @@
   <ItemGroup>
     <ClCompile Include="s1_binary.cpp" />
     <ClCompile Include="s2_dfs.cpp" />
+    <ClCompile Include="s3_bfs.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
